@@ -16,3 +16,5 @@ Lastly by using oversampling technique and data augmentation on preprocessing th
 Idea of the project is to develop a mobile camera application that performs calculations on standalone tensorflow android archive which uses deep learning algorithms to classify the skin diseases through captured images from human skin.
 
 In this applpication we are been using two algorithms: Convolution Neural Network connected to Artifical Neural Network which is pipelined to android application. 
+
+Environment of Technology used: ( CNN Algorithm, Python pipeline, Google cloud and Android MVC )
