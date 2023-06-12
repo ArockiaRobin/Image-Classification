@@ -1,6 +1,6 @@
 # Image-Classification
 
-Personal skin care assistant using deep learning
+Topic: Personal skin care assistant using deep learning
 
 A mobile application used to identify skin disease using images captured from camera. 
 App is built with Android+AI model with integrates through python pipeline concept. 
